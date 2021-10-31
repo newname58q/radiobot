@@ -1,0 +1,7 @@
+Pyrogram
+cryptg
+ffmpeg-python
+psutil
+pytgcalls
+wheel
+
